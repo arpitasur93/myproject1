@@ -174,7 +174,5 @@
       of your accepting any such warranty or additional liability.
 
 	END OF TERMS AND CONDITIONS
-testing Automation
-new line added
-Automation 3
+new line for automation
 
